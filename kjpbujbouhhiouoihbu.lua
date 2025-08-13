@@ -1,1 +1,6 @@
-return {"xcz_1349","OneGalaxyKey","xBlood_bunny"}
+local whitelist = {
+    "xcz_1349",
+    "OneGalaxyKey"
+}
+
+return whitelist
